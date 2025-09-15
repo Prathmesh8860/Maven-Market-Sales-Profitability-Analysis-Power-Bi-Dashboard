@@ -103,3 +103,17 @@ Maven Market is performing strongly, with revenue and transaction goals consiste
 - Operations Teams can track return rates to improve product quality.
 
 - Finance Teams can compare actuals vs targets for better forecasting.
+
+---
+## 💡 Author
+**Prathmesh Gaikwad**  
+[LinkedIn Profile](https://www.linkedin.com/in/prathmesh-gaikwad-bbb142322/)
+
+---
+
+## 📄 License
+This project is for educational and portfolio purposes.
+
+---
+
+#powerbi #dashboard #dataanalytics #salesanalysis #powerbiproject #businessintelligence #datavisualization
